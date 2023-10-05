@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  tahoma , arial , sans-serif;
+}
+#section_header_2_dark{
+    background-color: #333333;
+    height: 58px;
+    margin: auto;
+}
+.container {
+    width: 1370px;
+}
+.navbar-header{
+    margin: auto;
+    padding-top: 23px;
+}
+.containerss{
+    width: 1171px;
+    margin-right: 198px;
+    display: flex;
+}
+.collapse{
+    padding-top: 24px;
+}
+ul li {
+    list-style: none;
+}
+ul{
+    display: flex;
+    float:right;
+}
+a{
+    text-decoration: none;
+    color: rgba(204, 204, 204, 1);
+    font-weight: bold;
+}
+/* .propClone{
+    margin-left: 2px;
+} */
+.fa-brands{
+    color: rgba(204, 204, 204, 1);
+}
+.propClone{
+    margin-left: 50px;
+}
+.text_span{
+    color: rgb(255, 204, 51);
+    font-weight: bold;
+}
+.section_wrapper{
+    font-size: 20px;
+    color: white;
+}
+.section_wrapper{
+    position: absolute;
+    top: 250px;
+    text-align: center;
+}
+.title_style{
+  font-size: 50px;
+  font-weight: bold;
+}
+.subtitle_style{
+    font-size: 15px;
+}
+.email_subscribe{
+    height: 68px;
+    width: 450px;
+    background-color: rgb(37, 36, 38);
+    border-radius: 5px;
+    margin-left: 430px;
+    margin-top: 36px;
+    opacity: 0.9;
+}
+#email ,#subscribe_btn_1{
+    width: 279px;
+    height: 38px;
+    border-radius: 5px;
+    margin: 10px 5px;
+}
+#section_university_5 {
+    padding-top: 40px;
+    margin-left: 120px;
+}
+#section_university_5 .sixteen {
+    /*float: left;*/
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#section_university_5 .alpha .zone_left .psingle_item{
+    display: grid;
+    float: left;
+    grid-template-columns: auto auto;
+    padding-bottom: 30px;
+}
+#section_university_5 .alpha .zone_left .psingle_item .icon_st {
+    margin-left: 80px;
+    margin-top: 25px;
+}
+#section_university_5 .alpha .zone_left .psingle_item .text_st {
+    padding-top: 30px;
+    margin-left: 50px;
+}
+h3{
+    font-size: 20px;
+    color: #171717;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+h6 {
+    color: #dedada;
+    font-size: 10px;
+    width: 80%;
+    margin-top: 5px;
+    line-height: 18px;
+}
+#section_university_5  .omega  {
+    margin-left: -35px;
+    float: right;
+    padding: 16px 0 0 20px;
+    border-radius: 5px;
+    border: 3px solid white;
+    height: 400px;
+    width: 50%;
+    background-color: #EBEAEA;
+}
+#section_university_5  .omega .title-style {
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 18px;
+}
+#section_university_5  .omega .text-style {
+    font-size: 13px;
+    color: #b7adad;
+    border-radius: 2px;
+    margin-bottom: 12px;
+}
+#section_university_5 input,select {
+    margin: 12px 0;
+    width: 250px;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    border: 1px solid #dedada;
+}
+#section_university_5 .submit_btn {
+    margin-top: 12px;
+    width: 250px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #7CC576;
+    background-color: #7CC576;
+    color: white;
+}
+#section_ecourse_7 {
+    background-color: #F6F6F6;
+}
+#section_ecourse_7 .sixteen{
+    margin-left: 120px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#section_ecourse_7 .sixteen .alpha {
+    padding-top: 15px;
+}
+#section_ecourse_7 .sixteen .omega .socbuttons{
+    display: flex;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+#section_ecourse_7 .sixteen .omega .socbuttons .soc_icons {
+    margin-left: 30px;
+    padding-top:5px;
+}
+#section_ecourse_7 .sixteen .omega .socbuttons .soc_icons ul {
+    border: 1px solid #E9E9E9;
+    width: 30%;
+    padding: 8px 0 ;
+    /* margin-left: 7px; */
+    background-color: #E9E9E9;
+
+}
+#section_ecourse_7 .sixteen .omega .socbuttons .soc_icons li {
+    padding-right: 5px;
+}
+    /*Class*/
+.container {
+    width: 1165px;
+    margin: auto;
+}
+.bgvid{
+    width: 100%;
+}
+.likes_st{
+    padding-bottom: 20px;
+}
+
+

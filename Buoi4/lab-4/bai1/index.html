@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    button{
+        width: 150px;
+        height: 100px;
+        margin-left: 20px;
+    }
+</style>
+<body>
+    <button onclick="changeBg(value)" value="green">Xanh</button>
+    <button onclick="changeBg(value)" value="red">Đỏ</button>
+    <button onclick="changeBg(value)" value="yellow">Vàng</button>
+    <button onclick="changeBg(value)" value="orange">Cam</button>
+    <button onclick="changeBg(value)" value="pink">Hồng</button>
+    <button onclick="changeBg(value)" value="black">Đen</button>
+    
+    <script>
+        function changeBg(value){
+            document.body.style.backgroundColor = value;
+        }
+    </script>
+</body>
+</html>
